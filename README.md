@@ -1,6 +1,3 @@
-# project-euler-mathematical-challenges
-
-
 # What is Project Euler?
 
 
