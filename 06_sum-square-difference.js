@@ -3,6 +3,8 @@
 /* eslint-disable no-param-reassign */
 /* eslint-disable no-return-assign */
 
+// Find the difference between the sum of the squares of the first one hundred natural numbers and the square of the sum.
+
 const createNumbersIntervalRepository = (args) => {
   const initialNumber = args[0];
   const finalNumber = args[1];
